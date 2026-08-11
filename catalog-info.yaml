@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: awesome-superpowers
+  description: Stub for an awesome-list of the Superpowers agentic skills framework; currently just a title README.
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    prime-radiant.com/repo-map-rev: "24efc6bf0baa8c8a0afce4ff321cb05dda7272bf"
+  tags: [markdown, awesome-list]
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:kattni
+  system: superpowers
