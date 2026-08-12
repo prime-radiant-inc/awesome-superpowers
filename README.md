@@ -1,12 +1,11 @@
 # Awesome Superpowers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<div style="text-align: center;">
+<p align="center" width="100%">
   <a href="https://github.com/prime-radiant-inc/awesome-superpowers">
     <img src="assets/logo.png" alt="Superpowers logo" width="500">
-  </a>
-
+  </a></br>
 A curated collection of community projects actively maintained using Superpowers.
-</div>
+</p>
 
 ## Contents
 
