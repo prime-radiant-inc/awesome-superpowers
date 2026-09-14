@@ -1,0 +1,83 @@
+# Generated from README.md; do not edit directly.
+# Run: uv run scripts/generate_showcase.py
+
+- name: LambChat
+  description: An open-source platform for building, running, and sharing AI agents.
+  url: https://github.com/Yanyutin753/LambChat
+  author: Yanyutin753
+- name: Skills Manager
+  description: A native macOS app for managing skills across coding agents.
+  url: https://github.com/yibie/skills-manager
+  author: yibie
+- name: OpenBiliClaw
+  description: A local-first AI agent that discovers personalized content across online platforms.
+  url: https://github.com/whiteguo233/OpenBiliClaw
+  author: whiteguo233
+- name: Rank Analysis
+  description: An AI-powered League of Legends companion for reviewing match performance.
+  url: https://github.com/wnzzer/rank-analysis
+  author: wnzzer
+- name: OtakuWorld
+  description: A suite of apps for watching anime and reading manga and novels.
+  url: https://github.com/jakepurple13/OtakuWorld
+  author: jakepurple13
+- name: catgo-LRG
+  description: An AI-driven computational materials science workbench with 3D visualization and HPC workflow support.
+  url: https://github.com/Hello-QM/catgo-LRG
+  author: Hello-QM
+- name: Cashbook
+  description: A privacy-focused personal bookkeeping application.
+  url: https://github.com/WangJie0822/Cashbook
+  author: WangJie0822
+- name: opentypeless
+  description: An open-source AI voice-typing application for macOS, Windows, and Linux.
+  url: https://github.com/tover0314-w/opentypeless
+  author: tover0314-w
+- name: Polynoia
+  description: A local-first workspace for AI coding agents with durable identities and scoped memory.
+  url: https://github.com/JuneQQQ/polynoia
+  author: JuneQQQ
+- name: auto-identity-remove
+  description: An automated data-broker opt-out application for macOS, Linux, and Windows.
+  url: https://github.com/stephenlthorn/auto-identity-remove
+  author: stephenlthorn
+- name: vscode-markdown-pdf
+  description: A Visual Studio Code extension for exporting Markdown files to PDF and other formats.
+  url: https://github.com/yzane/vscode-markdown-pdf
+  author: yzane
+- name: GodotPrompter
+  description: A plugin that provides Godot 4.x development skills to AI coding agents.
+  url: https://github.com/jame581/GodotPrompter
+  author: jame581
+- name: browser-ai-assistant
+  description: A Chrome and Edge sidebar extension that provides an AI assistant using the current page context.
+  url: https://github.com/AhYi8/browser-ai-assistant
+  author: AhYi8
+- name: DashClaw
+  description: A policy and approval layer that intercepts risky AI-agent actions before execution.
+  url: https://github.com/ucsandman/DashClaw
+  author: ucsandman
+- name: PyPhi
+  description: A Python toolkit for research in Integrated Information Theory.
+  url: https://github.com/wmayner/pyphi
+  author: wmayner
+- name: Fabro
+  description: A version-controlled workflow-graph tool for directing AI coding agents.
+  url: https://github.com/fabro-sh/fabro
+  author: fabro-sh
+- name: agent-spec
+  description: An AI-native BDD and specification-verification tool for coding-agent tasks.
+  url: https://github.com/ZhangHanDong/agent-spec
+  author: ZhangHanDong
+- name: Skill Flow
+  description: A tool for installing, managing, and sharing skills across coding agents.
+  url: https://github.com/VintLin/skill-flow
+  author: VintLin
+- name: teamspeak-music-bot
+  description: A TeamSpeak music bot with a web interface and Chinese music-service support.
+  url: https://github.com/ZHANGTIANYAO1/teamspeak-music-bot
+  author: ZHANGTIANYAO1
+- name: Voting Info
+  description: Provides voter registration and voting requirements for all 50 US states plus Washington DC; usvoting.info (https://usvoting.info/)
+  url: https://github.com/bobmonsour/votinginfo
+  author: bobmonsour

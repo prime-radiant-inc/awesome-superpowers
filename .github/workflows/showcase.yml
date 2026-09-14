@@ -1,0 +1,21 @@
+name: Showcase Feed
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  showcase:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v9.0.0
+        with:
+          enable-cache: false
+      - name: Test showcase generation
+        run: uv run --with pytest --with pyyaml python -m pytest
+      - name: Check showcase matches README
+        run: uv run scripts/generate_showcase.py --check
