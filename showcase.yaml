@@ -73,6 +73,10 @@
   description: A tool for installing, managing, and sharing skills across coding agents.
   url: https://github.com/VintLin/skill-flow
   author: VintLin
+- name: agent-observer
+  description: A CLI that reports which subagents a coding agent dispatched, with which model and for which task, read from the agent's own on-disk metadata.
+  url: https://github.com/mbecca/agent-observer
+  author: mbecca
 - name: teamspeak-music-bot
   description: A TeamSpeak music bot with a web interface and Chinese music-service support.
   url: https://github.com/ZHANGTIANYAO1/teamspeak-music-bot
