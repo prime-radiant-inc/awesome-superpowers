@@ -42,6 +42,7 @@ A curated collection of community projects actively maintained using Superpowers
 - [agent-spec](https://github.com/ZhangHanDong/agent-spec) - An AI-native BDD and specification-verification tool for coding-agent tasks.
 - [Skill Flow](https://github.com/VintLin/skill-flow) - A tool for installing, managing, and sharing skills across coding agents.
 - [agent-observer](https://github.com/mbecca/agent-observer) - A CLI that reports which subagents a coding agent dispatched, with which model and for which task, read from the agent's own on-disk metadata.
+- [awesome-openspec-superpowers](https://github.com/felipefontoura/awesome-openspec-superpowers) - A one-command setup for Claude Code that runs OpenSpec changes through Superpowers, with one shared plan file and a hook that blocks code edits until a human approves the change.
 
 ## Integrations
 

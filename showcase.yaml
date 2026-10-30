@@ -77,6 +77,10 @@
   description: A CLI that reports which subagents a coding agent dispatched, with which model and for which task, read from the agent's own on-disk metadata.
   url: https://github.com/mbecca/agent-observer
   author: mbecca
+- name: awesome-openspec-superpowers
+  description: A one-command setup for Claude Code that runs OpenSpec changes through Superpowers, with one shared plan file and a hook that blocks code edits until a human approves the change.
+  url: https://github.com/felipefontoura/awesome-openspec-superpowers
+  author: felipefontoura
 - name: teamspeak-music-bot
   description: A TeamSpeak music bot with a web interface and Chinese music-service support.
   url: https://github.com/ZHANGTIANYAO1/teamspeak-music-bot
